@@ -8,14 +8,4 @@
 </p>
 
 <p align = "center">
-  
-  <a href="https://github.com/sushrut111/chrome-tab-reloader">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushrut111&repo=chrome-tab-reloader" />
-  </a>
-  <a href="https://github.com/sushrut111/react-grpc-web">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushrut111&repo=react-grpc-web" />
-  </a>
-  <a href="https://github.com/sushrut111/audio-messenger">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushrut111&repo=audio-messenger" />
-  </a>
 </p>

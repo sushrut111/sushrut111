@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sushrut</h1>
 <h3 align="center">An open source enthusiast</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sushrut111&label=Profile%20views&color=0e75b6&style=flat" alt="sushrut111" /> </p>
-
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sushrut111&" alt="sushrut111" /></p>
 
 

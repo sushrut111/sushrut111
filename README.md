@@ -3,10 +3,8 @@
 
 
 <h2>Recent blog posts</h2>
-<ul>
-  <li><a href="http://bit.ly/captcha-decode-dev">Decoding captcha created by library svg-captcha: cowin booking chrome extension</a></li>
-  <li><a href="https://medium.com/@kasturesushrut/how-to-use-grpc-with-react-450283592188">How to use gRPC with react</a></li>
-</ul>
+<p><a href="http://bit.ly/captcha-decode-dev"><img src="./captchadev.png" alt="sushrut111" /></a></p>
+<p><a href="https://medium.com/@kasturesushrut/how-to-use-grpc-with-react-450283592188"><img src="./grpcmed.png" alt="sushrut111" /></a></p>
   
 
 <h2>GitHub Stats</h2>
